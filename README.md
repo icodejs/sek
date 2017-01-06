@@ -1,0 +1,2 @@
+# sek
+Tiny millisecond helper
